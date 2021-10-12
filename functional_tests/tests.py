@@ -72,7 +72,7 @@ class NewVisitorTest(LiveServerTestCase):
 #Edith wonders whether the site will remember her list. then she 
 #sees that the site has generated a unique URL for her -- there is
 #some explanatory text to that effect
-    self.fail('Finish the test!')
+
 
 #she visits that url - her to-do list is still there
 
